@@ -1,5 +1,5 @@
-explored automating a data pipeline from an e-commerce website to a MongoDB database using a Python script-----
-steps---
+# explored automating a data pipeline from an e-commerce website to a MongoDB database using a Python script-----
+## steps---
 1. Install pymongo requests in your terminal
 
 2.run Python script
